@@ -1,4 +1,4 @@
-#ifndef K_FOLD_RSME_H
+#ifndef K_FOLD_RMSE_H
 #define K_FOLD_RMSE_H
 
 #include "k_fold_parameters.h"
